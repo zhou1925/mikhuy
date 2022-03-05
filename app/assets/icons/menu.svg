@@ -1,0 +1,10 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+ <title>UI Icon</title>
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" data-name="88 - Menu">
+   <path id="svg_2" d="m28,8.5l-16,0a1.5,1.5 0 0 1 0,-3l16,0a1.5,1.5 0 0 1 0,3zm1.5,7.5a1.5,1.5 0 0 0 -1.5,-1.5l-24,0a1.5,1.5 0 0 0 0,3l24,0a1.5,1.5 0 0 0 1.5,-1.5zm0,9a1.5,1.5 0 0 0 -1.5,-1.5l-16,0a1.5,1.5 0 0 0 0,3l16,0a1.5,1.5 0 0 0 1.5,-1.5z"/>
+  </g>
+ </g>
+</svg>
