@@ -131,8 +131,8 @@ The food truck needs an application to present its products and customers can or
 ### POSTMAN
 |   |    |    |
 |--------------|----------------|------------|
-|![products](doc_files/postman/products.png)|![account](doc_files/postman/account.png) |![cart](doc_files/postman/cart.png) |
-|![orders](doc_files/postman/orders.png) |![trucks](doc_files/postman/trucks.png) |![users](doc_files/postman/users.png)|
+|![productss](doc_files/postman/products.PNG)|![accounts](doc_files/postman/account.PNG) |![cart](doc_files/postman/cart.PNG) |
+|![orderss](doc_files/postman/orders.PNG) |![truckss](doc_files/postman/trucks.PNG) |![userss](doc_files/postman/users.PNG)|
 
 
 # MOBILE
