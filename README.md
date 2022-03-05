@@ -37,7 +37,7 @@
 
 
 # SUMMARY
-Mikhuy is the app name of a fast food truck. The owner has several trucks(5) this app helps to receive orders of the customers.
+Mikhuy is an app of a fast food trucks. The owner has several trucks(5) this app helps to receive orders of the customers.
 |   |    |  
 |--------------|----------------|
 |![truck_1](doc_files/business/truck_active.jpg) | ![truck_2](doc_files/business/truck_inactive.jpg)|
@@ -142,10 +142,9 @@ The food truck needs an application to present its products and customers can or
 ## Screens
 |   |    |    | |
 |--------------|----------------|------------|-----|
-|![1](doc_files/app/screens/1.jpg) |![2](doc_files/app/screens/2.jpg) | ![3](doc_files/app/screens/3.jpg) | ![1](doc_files/app/screens/4.jpg) |
-|![1](doc_files/app/screens/5.jpg) |![2](doc_files/app/screens/6.jpg) | ![3](doc_files/app/screens/7.jpg) | ![1](doc_files/app/screens/8.jpg) |
-|![1](doc_files/app/screens/9.jpg) |![2](doc_files/app/screens/10.jpg) | ![3](doc_files/app/screens/11.jpg) | ![1](doc_files/app/screens/12.jpg) |
-|![1](doc_files/app/screens/13.jpg) |![2](doc_files/app/screens/14.jpg) | ![3](doc_files/app/screens/15.jpg) |  |
+|![1](doc_files/screens/1.jpg) |![2](doc_files/screens/2.jpg) | ![3](doc_files/screens/3.jpg) | ![1](doc_files/screens/4.jpg) |
+|![1](doc_files/screens/5.jpg) |![2](doc_files/screens/6.jpg) | ![3](doc_files/screens/7.jpg) | ![1](doc_files/screens/8.jpg) |
+|![1](doc_files/screens/9.jpg) |![2](doc_files/screens/10.jpg) | ![3](doc_files/screens/11.jpg) | ![1](doc_files/screens/12.jpg) |
 
 ## TECHNOLOGIES
 ### BACKEND
